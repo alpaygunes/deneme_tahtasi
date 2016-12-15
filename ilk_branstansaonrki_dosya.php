@@ -1,1 +1,0 @@
-ilk branştan sonraki dosyadaki ilk satır
